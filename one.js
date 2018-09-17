@@ -1,3 +1,18 @@
+
 function try1{
     "hello";
+
+function try1(){
+    "hello"
+}
+{
+    "hello";
+
+function name()
+{
+	System.out.println("hey there whats up");
+	System.out.println("Life is too short dont waste it");
+
+
+
 }
