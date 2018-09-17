@@ -1,3 +1,5 @@
-<html>
-<body>
-<p></p>
+function ritu()
+{
+	var git;
+}
+
