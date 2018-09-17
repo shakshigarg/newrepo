@@ -1,6 +1,6 @@
 # newrepo
 for final git
-https://github.com/shakshigarg/finalgit.git
+https://github.com/shakshigarg/newrepo.git
 
 
 steps
