@@ -22,3 +22,6 @@ function name()
 
     System.out.println("BYE");
 }}
+{
+    "change"
+}
