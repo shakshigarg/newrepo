@@ -1,4 +1,3 @@
 # newrepo
 for final git
-1. conflict request
-2. 
+https://github.com/shakshigarg/finalgit.git
