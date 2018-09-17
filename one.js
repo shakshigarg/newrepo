@@ -1,3 +1,9 @@
+
+function ritu()
+{
+	var git;
+}
+
 function try1(){
     "hello"
 }
