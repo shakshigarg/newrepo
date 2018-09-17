@@ -6,4 +6,5 @@ https://github.com/shakshigarg/newrepo.git
 steps
 1. clone
 2 changes in file one.js
-3. 
+3. make branch
+4. and 
